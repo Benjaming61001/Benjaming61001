@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋
+# Hi, I'm Pavin Butprom 👋
 
 Frontend-focused developer building clean and interactive web applications.
 
